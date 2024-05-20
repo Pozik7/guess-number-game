@@ -1,0 +1,6 @@
+A game where you have 10 lives to guess the number from (0-100).
+If you dont guess the number correctly, then ur lives decrease by 1.
+If you guess ABOVE the guess number, you should get a message "Your guess is above the number!" and if BELOW then so forth...
+
+If you guess the right number, you get a message "Nice !! you guessed the number!" and you will have option to restart the game and play again.
+And if you lose, then you get "Oh you loser!" and restart option appears.
